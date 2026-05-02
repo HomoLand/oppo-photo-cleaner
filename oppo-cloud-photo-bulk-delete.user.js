@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         OPPO Cloud Photo Bulk Delete
+// @name:zh-CN   OPPO 云相册批量删除
 // @namespace    https://github.com/SajoLuo/oppo-cloud-photo-bulk-delete
-// @version      0.2.0
+// @version      0.2.1
 // @description  Scan, export, clear, restore, and permanently delete photos from the OPPO/HeyTap cloud photo web app.
+// @description:zh-CN 扫描、导出、清空、恢复和永久删除 OPPO/HeyTap/OnePlus 云相册照片与视频。
 // @author       SajoL
 // @license      MIT
 // @homepageURL  https://github.com/SajoLuo/oppo-cloud-photo-bulk-delete
