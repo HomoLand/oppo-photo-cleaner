@@ -22,7 +22,7 @@ It is built for two real workflows:
 
 Install a userscript manager such as Tampermonkey, then open:
 
-https://raw.githubusercontent.com/SajoLuo/oppo-cloud-photo-bulk-delete/main/oppo-cloud-photo-bulk-delete.user.js
+https://raw.githubusercontent.com/HomoLand/oppo-photo-cleaner/main/oppo-cloud-photo-bulk-delete.user.js
 
 ## Usage
 
